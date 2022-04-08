@@ -1,0 +1,124 @@
+.t1{
+    width: 100%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.head1{
+    text-align: center;
+    display: block;
+    letter-spacing: 0.5px;
+    color: black;
+    font-weight: 500;
+}
+
+.title1{
+    font-size: 190px;
+    text-align: center;
+    color: black;
+}
+
+.center-right{
+    position: absolute;
+    right: 8px;
+    top: 70%;
+}
+.center-right1{
+    position: absolute;
+    right: 8px;
+    top: 45%;
+}
+.center-right2{
+    position: absolute;
+    right: 8px;
+    top: 85%;
+}
+.center-right3{
+    position: absolute;
+    right: 8px;
+    top: 120%;
+}
+
+.bottom-right{
+    text-align: right;
+    position: absolute;
+    right: 8px;
+    top: 75%;
+    left: 80%;
+}
+.bottom-right21{
+    text-align: right;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    left: 80%;
+}
+.bottom-right22{
+    text-align: right;
+    position: absolute;
+    right: 8px;
+    top: 122%;
+    left: 80%;
+}
+.bottom-right1{
+    position: absolute;
+    bottom: 47%;
+    right: 71%;
+}
+.bottom-right2{
+    position: absolute;
+    bottom: 47%;
+    right: 38%;
+}
+.bottom-right3{
+    position: absolute;
+    bottom: 47%;
+    right: 5%;
+}
+
+.page2btn1{
+    position: absolute;
+    top: 72%;
+    left: 33%;
+}
+
+.btnposition{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.btnposition2{
+    position: absolute;
+    top: 0%;
+    left: 33%;
+}
+.btnposition3{
+    position: absolute;
+    top: 0%;
+    left: 67%;
+}
+.text1{
+    color: brown;
+    text-align: center;
+}
+.pos{
+    position: relative;
+    padding: 4px;
+}
+
+.tophr{
+    border: 4px solid grey;
+}
+
+.hr1{
+    border: 2px solid black;
+    
+}
+.bottomhr{
+    border: 2px solid rgb(0, 0, 0);
+
+}
+.headp2{
+    font-size: 22px;
+    font-weight: 800;
+}
